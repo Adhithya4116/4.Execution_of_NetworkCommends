@@ -1,6 +1,7 @@
 # 4. EXECUTION OF NETWORK COMMANDS
-# Name: Adhithya Perumal D
-# Reg. no: 212222230007
+## NAME: ADHITHYA PERUMAL D
+
+## REG.NO: 212222230007
 ## Aim : 
 Use of Network commands in Real Time environment.
 ## Software : 
